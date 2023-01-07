@@ -1,4 +1,19 @@
-img {
-    height: auto;
-    width: 500px;
+body {
+    background-color: slategrey;
+    
+}
+      
+
+.header {
+    background-color: darkorange;
+    text-align: center;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.unordered-list {
+    color: white;
+    
 }
