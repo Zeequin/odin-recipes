@@ -2,18 +2,19 @@ body {
     background-color: slategrey;
     
 }
-      
 
 .header {
     background-color: darkorange;
     text-align: center;
 }
 
-.aligncenter {
+.align-center {
     text-align: center;
 }
 
 .unordered-list {
     color: white;
-    
+    border: 2px solid black;
+    padding: 10px;
+    font-size: 22px;
 }
